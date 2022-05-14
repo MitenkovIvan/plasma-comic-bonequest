@@ -2,6 +2,8 @@
 
 BoneQuest Plasma Comic for the KDE Desktop. Based on [BoneQuest API](https://github.com/bonequest/api)
 
+![preview](https://github.com/MitenkovIvan/plasma-comic-bonequest/raw/main/preview.png)
+
 ## Installation
 
 Remove any existing copy of the *BoneQuest* comic, located at `~/.local/share/plasma/comics/`.

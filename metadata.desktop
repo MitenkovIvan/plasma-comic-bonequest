@@ -1,0 +1,15 @@
+[Desktop Entry]
+Name=BoneQuest
+Comment=BoneQuest
+Type=Service
+X-KDE-ServiceTypes=Plasma/Comic
+Icon=icon.png
+
+X-KDE-Library=plasma_comic_krossprovider
+X-KDE-PluginInfo-Author=Ivan Mitenkov
+X-KDE-PluginInfo-Email=m1t3nk0v@internet.ru
+X-KDE-PluginInfo-Name=bonequest
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-License=GPLv2
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PlasmaComicProvider-SuffixType=Number
